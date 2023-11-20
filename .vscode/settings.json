@@ -1,0 +1,4 @@
+{
+    "clangd.path": "/usr/bin/clangd", // do not use upstream clangd, doesn't have support for apple-clang-specific arguments.
+    // "clangd.path": "/opt/homebrew/Cellar/llvm/17.0.2/bin/clangd",
+}
